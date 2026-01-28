@@ -1,6 +1,4 @@
 # platform-hardening-checklist
-## AWS EKS Hardening
-This document provides hardening recommendations and best practices for the Kubernetes resources
 
 ## 1. RBAC
 - create RBAC and restrice to least privelige acess
